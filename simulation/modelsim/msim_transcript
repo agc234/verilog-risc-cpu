@@ -1,0 +1,151 @@
+# Reading pref.tcl
+# ERROR: No extended dataflow license exists
+# do lab07_AC_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab {C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/alu.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:15:09 on Nov 14,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab" C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/alu.sv 
+# -- Compiling module alu
+# -- Compiling module adder
+# -- Compiling module mux2
+# -- Compiling module mux4
+# 
+# Top level modules:
+# 	alu
+# End time: 12:15:09 on Nov 14,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab {C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/register_file.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:15:09 on Nov 14,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab" C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/register_file.sv 
+# -- Compiling module register_file
+# 
+# Top level modules:
+# 	register_file
+# End time: 12:15:09 on Nov 14,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab {C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/data_memory.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:15:09 on Nov 14,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab" C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/data_memory.sv 
+# -- Compiling module data_memory
+# 
+# Top level modules:
+# 	data_memory
+# End time: 12:15:09 on Nov 14,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab {C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/MUX_MemtoReg.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:15:09 on Nov 14,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab" C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/MUX_MemtoReg.sv 
+# -- Compiling module MUX_MemtoReg
+# 
+# Top level modules:
+# 	MUX_MemtoReg
+# End time: 12:15:09 on Nov 14,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab {C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sign_extend.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:15:10 on Nov 14,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab" C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sign_extend.sv 
+# -- Compiling module sign_extend
+# 
+# Top level modules:
+# 	sign_extend
+# End time: 12:15:10 on Nov 14,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab {C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/instruction_memory.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:15:10 on Nov 14,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab" C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/instruction_memory.sv 
+# -- Compiling module instruction_memory
+# 
+# Top level modules:
+# 	instruction_memory
+# End time: 12:15:10 on Nov 14,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab {C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pc.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:15:10 on Nov 14,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab" C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pc.sv 
+# -- Compiling module pc
+# 
+# Top level modules:
+# 	pc
+# End time: 12:15:10 on Nov 14,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab {C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sevenseg.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:15:10 on Nov 14,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab" C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sevenseg.sv 
+# -- Compiling module sevenseg
+# 
+# Top level modules:
+# 	sevenseg
+# End time: 12:15:10 on Nov 14,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -sv -work work +incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab {C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:15:11 on Nov 14,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab" C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv 
+# -- Compiling module pctestbench
+# 
+# Top level modules:
+# 	pctestbench
+# End time: 12:15:11 on Nov 14,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  pctestbench
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" pctestbench 
+# Start time: 12:15:11 on Nov 14,2021
+# Loading sv_std.std
+# Loading work.pctestbench
+# Loading work.pc
+# Loading work.instruction_memory
+# Loading work.sign_extend
+# Loading work.register_file
+# Loading work.alu
+# Loading work.mux2
+# Loading work.adder
+# Loading work.mux4
+# Loading work.data_memory
+# Loading work.MUX_MemtoReg
+# Loading work.sevenseg
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'bob'.  Expected 21, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /pctestbench/bob File: C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv Line: 8
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'a1'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'b1'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'c1'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'd1'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'e1'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'f1'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'g1'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'a2'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'b2'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'c2'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'd2'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'e2'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'f2'.
+# ** Warning: (vsim-3722) C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv(8): [TFMPC] - Missing connection for port 'g2'.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Break key hit
+# Break in Module pctestbench at C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv line 16
+# End time: 12:34:22 on Nov 14,2021, Elapsed time: 0:19:11
+# Errors: 0, Warnings: 15

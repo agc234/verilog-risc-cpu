@@ -1,0 +1,324 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/simulation/modelsim
+vadder
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1636910109
+!i10b 1
+!s100 ^i5`RQNn^PNfEY;gO[G@I1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXDHFR^?D8;7KPR?O0PzLa2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z5 w1636409405
+Z6 8C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/alu.sv
+Z7 FC:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/alu.sv
+!i122 0
+L0 14 6
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1636910109.000000
+Z10 !s107 C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/alu.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab|C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/alu.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab
+Z14 tCvgOpt 0
+valu
+R1
+R2
+!i10b 1
+!s100 ;LbW=^IleLhDS1PcoZREG3
+R3
+I@RC_KkG7m[4R]jhgi[`]I0
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 0
+L0 1 12
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vdata_memory
+R1
+R2
+!i10b 1
+!s100 >c@G]45me`:W52hgna^bm2
+R3
+IX`b@9fAg?31`EzDhRMKS>3
+R4
+S1
+R0
+w1636843042
+8C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/data_memory.sv
+FC:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/data_memory.sv
+!i122 2
+L0 1 28
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/data_memory.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab|C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/data_memory.sv|
+!i113 1
+R12
+R13
+R14
+vinstruction_memory
+R1
+Z15 !s110 1636910110
+!i10b 1
+!s100 ZOXAP^L6?F17>kD5TL^<[2
+R3
+IfeRdaHV13Oo;EjR=?1e:=3
+R4
+S1
+R0
+w1636870562
+8C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/instruction_memory.sv
+FC:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/instruction_memory.sv
+!i122 5
+L0 1 26
+R8
+r1
+!s85 0
+31
+Z16 !s108 1636910110.000000
+!s107 C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/instruction_memory.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab|C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/instruction_memory.sv|
+!i113 1
+R12
+R13
+R14
+vmux2
+R1
+R2
+!i10b 1
+!s100 7Kn5MDkPgQ;nX=`h0k9P[3
+R3
+I0:LCP`Q`fnOHBml1Bg0UM1
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 0
+L0 21 7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vmux4
+R1
+R2
+!i10b 1
+!s100 fU99H1077<:m[`5SKe6Y:1
+R3
+I:oAK0MT0`o`ni_D5oGUDf0
+R4
+S1
+R0
+R5
+R6
+R7
+!i122 0
+L0 29 13
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vMUX_MemtoReg
+R1
+R2
+!i10b 1
+!s100 l=EIRRHMN0=<59>Ra4zB?0
+R3
+IYo_mTRI]Sf0;A9VESU8Fm1
+R4
+S1
+R0
+w1636843412
+8C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/MUX_MemtoReg.sv
+FC:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/MUX_MemtoReg.sv
+!i122 3
+L0 1 9
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/MUX_MemtoReg.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab|C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/MUX_MemtoReg.sv|
+!i113 1
+R12
+R13
+R14
+n@m@u@x_@memto@reg
+vpc
+R1
+R15
+!i10b 1
+!s100 @M2l5kaelEZ?]XmcjKe=j1
+R3
+I_m>I93JIoH`czCmAA`Cn61
+R4
+S1
+R0
+w1636869116
+8C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pc.sv
+FC:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pc.sv
+!i122 6
+L0 1 38
+R8
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pc.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab|C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pc.sv|
+!i113 1
+R12
+R13
+R14
+vpctestbench
+R1
+!s110 1636910111
+!i10b 1
+!s100 fl2aCAj<SEiiK1:8[3CRC3
+R3
+IOc30gM4E<l3M0Xl3NdVc41
+R4
+S1
+R0
+w1636910087
+8C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv
+FC:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv
+!i122 8
+L0 1 33
+R8
+r1
+!s85 0
+31
+!s108 1636910111.000000
+!s107 C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab|C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/pctestbench.sv|
+!i113 1
+R12
+R13
+R14
+vregister_file
+R1
+R2
+!i10b 1
+!s100 <AH@mC1E?[`T1DE]gTXXK2
+R3
+Incb4XZ^JLj53dWgX;NK`l1
+R4
+S1
+R0
+w1636843028
+8C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/register_file.sv
+FC:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/register_file.sv
+!i122 1
+L0 1 27
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/register_file.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab|C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/register_file.sv|
+!i113 1
+R12
+R13
+R14
+vsevenseg
+R1
+R15
+!i10b 1
+!s100 HgA8FXmH0LBlM0QVjAjCG0
+R3
+IfaB=PPgO0f8zNLbU@_In80
+R4
+S1
+R0
+w1636864596
+8C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sevenseg.sv
+FC:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sevenseg.sv
+!i122 7
+L0 1 25
+R8
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sevenseg.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab|C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sevenseg.sv|
+!i113 1
+R12
+R13
+R14
+vsign_extend
+R1
+R15
+!i10b 1
+!s100 VPK4M3nHXfSiES2b18RHI2
+R3
+IWFJ<jU7<bH=R880al[Fci1
+R4
+S1
+R0
+w1636471761
+8C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sign_extend.sv
+FC:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sign_extend.sv
+!i122 4
+L0 1 7
+R8
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sign_extend.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab|C:/Users/User/Documents/COLLEGE/FALL2021/DIGITAL_SYST_DESIGN/Labs/lab7/lab/sign_extend.sv|
+!i113 1
+R12
+R13
+R14

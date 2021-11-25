@@ -1,0 +1,349 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "probe_register_file[0]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[1]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[2]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[3]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[4]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[5]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[6]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[7]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[8]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[9]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[10]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[11]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[12]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[13]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[14]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[15]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[16]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[17]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[18]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[19]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[20]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[21]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[22]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[23]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[24]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[25]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[26]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[27]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[28]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[29]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[30]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_register_file[31]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[0]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[1]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[2]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[3]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[4]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[5]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[6]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[7]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[8]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[9]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[10]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[11]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[12]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[13]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[14]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[15]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[16]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[17]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[18]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[19]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[20]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[21]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[22]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[23]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[24]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[25]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[26]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[27]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[28]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[29]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[30]",
+					"strict" : false
+				},
+				{
+					"name" : "probe_data_memory[31]",
+					"strict" : false
+				},
+				{
+					"name" : "a1",
+					"strict" : false
+				},
+				{
+					"name" : "b1",
+					"strict" : false
+				},
+				{
+					"name" : "c1",
+					"strict" : false
+				},
+				{
+					"name" : "d1",
+					"strict" : false
+				},
+				{
+					"name" : "e1",
+					"strict" : false
+				},
+				{
+					"name" : "f1",
+					"strict" : false
+				},
+				{
+					"name" : "g1",
+					"strict" : false
+				},
+				{
+					"name" : "a2",
+					"strict" : false
+				},
+				{
+					"name" : "b2",
+					"strict" : false
+				},
+				{
+					"name" : "c2",
+					"strict" : false
+				},
+				{
+					"name" : "d2",
+					"strict" : false
+				},
+				{
+					"name" : "e2",
+					"strict" : false
+				},
+				{
+					"name" : "f2",
+					"strict" : false
+				},
+				{
+					"name" : "g2",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "RegWrite",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MemWrite",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

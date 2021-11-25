@@ -1,0 +1,9 @@
+module PC(
+input logic clk, rst,
+input logic[2:0] instruction_A,
+input logic RegWrite, MemWrite,
+output logic[31:0] prode_register_file,
+output logic[31:0] prode_data_memory
+);
+
+endmodule
